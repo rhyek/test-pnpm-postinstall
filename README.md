@@ -1,3 +1,5 @@
+Minimal reproduction for: https://github.com/pnpm/pnpm/issues/3609
+
 ```bash
 # Build image
 docker buildx build --load -t test-pnpm-postinstall -f apps/test-app/Dockerfile .
