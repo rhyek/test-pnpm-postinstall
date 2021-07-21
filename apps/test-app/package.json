@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo lol > test.txt && echo done"
+    "postinstall": "echo lol > test.txt && echo donex"
   },
   "keywords": [],
   "author": "",
